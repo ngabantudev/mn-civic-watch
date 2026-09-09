@@ -2,22 +2,22 @@
   "schemaVersion": 1,
   "client": "stpaul",
   "jurisdiction": "St. Paul City Council",
-  "generatedAt": "2026-09-08T16:20:15.618Z",
+  "generatedAt": "2026-09-09T16:15:57.034Z",
   "status": "ingested",
-  "note": "19 meeting(s) (19/19 event(s) in window) and 297 agenda item(s) ingested for 2026-08-25–2026-12-07.",
+  "note": "18 meeting(s) (18/18 event(s) in window) and 283 agenda item(s) ingested for 2026-08-26–2026-12-08.",
   "provenance": {
     "primarySourceUrl": "https://webapi.legistar.com/v1/stpaul/events",
     "sourceAgency": "St. Paul City Council",
     "documentType": "Legistar Web API — Events/EventItems",
     "documentId": null,
     "issuedDate": null,
-    "fetchedAt": "2026-09-08T16:20:15.618Z",
+    "fetchedAt": "2026-09-09T16:15:57.034Z",
     "licence": "Public records served via Legistar InSite; no separate machine-reuse licence published by the host jurisdiction as of this writing.",
-    "contentHash": "ae663ecda71a2a70966efa9bf17ba11b8a40f7ceb29e3d8eeadafb3e21aeea3f"
+    "contentHash": "699e76adc04e293176b24672a0b273e99b36393ccc05609f4c66c3f363536a54"
   },
   "window": {
-    "startIso": "2026-08-25",
-    "endIso": "2026-12-07"
+    "startIso": "2026-08-26",
+    "endIso": "2026-12-08"
   },
   "meetings": [
     {
@@ -223,21 +223,6 @@
           "type": "Councilmember"
         }
       ]
-    },
-    {
-      "id": "legistar-stpaul-meeting-7744",
-      "body_id": "legistar-stpaul-body-195",
-      "bodyName": "Legislative Hearings",
-      "date": "2026-08-25",
-      "time": "10:00",
-      "location": "Room 330 City Hall & Court House/Remote",
-      "agendaStatus": "Final",
-      "agendaUrl": "https://legistar1.granicus.com/StPaul/meetings/2026/8/7744_A_Legislative_Hearings_26-08-25_ADA_Meeting_Agenda.pdf",
-      "minutesUrl": "https://legistar1.granicus.com/StPaul/meetings/2026/8/7744_M_Legislative_Hearings_26-08-25_Minutes_-_Final.pdf",
-      "videoStatus": "Public",
-      "sourceUrl": "https://stpaul.legistar.com/MeetingDetail.aspx?LEGID=7744&GID=125&G=EDAB5C5F-1041-4DF4-A894-59E957785E36",
-      "lastModifiedUtc": "2026-08-28T13:07:06.857",
-      "members": []
     },
     {
       "id": "legistar-stpaul-meeting-7745",
@@ -566,7 +551,7 @@
       "minutesUrl": null,
       "videoStatus": "Public",
       "sourceUrl": "https://stpaul.legistar.com/MeetingDetail.aspx?LEGID=7755&GID=125&G=EDAB5C5F-1041-4DF4-A894-59E957785E36",
-      "lastModifiedUtc": "2026-09-04T21:46:37.963",
+      "lastModifiedUtc": "2026-09-09T15:12:34.187",
       "members": [
         {
           "id": 6692,
@@ -668,7 +653,7 @@
       "minutesUrl": null,
       "videoStatus": "Public",
       "sourceUrl": "https://stpaul.legistar.com/MeetingDetail.aspx?LEGID=7758&GID=125&G=EDAB5C5F-1041-4DF4-A894-59E957785E36",
-      "lastModifiedUtc": "2026-09-03T17:47:26.913",
+      "lastModifiedUtc": "2026-09-09T00:08:01.667",
       "members": [
         {
           "id": 6692,
@@ -772,6 +757,11 @@
       "sourceUrl": "https://stpaul.legistar.com/MeetingDetail.aspx?LEGID=7760&GID=125&G=EDAB5C5F-1041-4DF4-A894-59E957785E36",
       "lastModifiedUtc": "2026-09-08T12:03:29.75",
       "members": [
+        {
+          "id": 6645,
+          "name": "Mara Humphrey",
+          "type": "Commissioner"
+        },
         {
           "id": 6990,
           "name": "Rebecca Cave",
@@ -1561,19 +1551,6 @@
       "matterType": "Resolution LH Summary Abatement Order"
     },
     {
-      "id": "legistar-stpaul-eventitem-216438",
-      "meeting_id": "legistar-stpaul-meeting-7740",
-      "sequence": 53,
-      "agendaNumber": "42",
-      "title": "Appeal of Erin Metz Verdeja to a Summary Abatement Order at 1518 SELBY AVENUE.",
-      "isConsent": true,
-      "actionName": "Continue Public Hearing",
-      "passedFlagName": "Pass",
-      "matterFile": "RLH SAO 26-60",
-      "matterId": 52441,
-      "matterType": "Resolution LH Summary Abatement Order"
-    },
-    {
       "id": "legistar-stpaul-eventitem-216439",
       "meeting_id": "legistar-stpaul-meeting-7740",
       "sequence": 49,
@@ -1787,162 +1764,6 @@
       "sequence": 4,
       "agendaNumber": null,
       "title": "Adjournment",
-      "isConsent": false,
-      "actionName": null,
-      "passedFlagName": null,
-      "matterFile": null,
-      "matterId": null,
-      "matterType": null
-    },
-    {
-      "id": "legistar-stpaul-eventitem-216481",
-      "meeting_id": "legistar-stpaul-meeting-7744",
-      "sequence": 2,
-      "agendaNumber": null,
-      "title": "Special Tax Assessments",
-      "isConsent": false,
-      "actionName": null,
-      "passedFlagName": null,
-      "matterFile": null,
-      "matterId": null,
-      "matterType": null
-    },
-    {
-      "id": "legistar-stpaul-eventitem-216483",
-      "meeting_id": "legistar-stpaul-meeting-7744",
-      "sequence": 1,
-      "agendaNumber": null,
-      "title": "10:00 a.m. Hearings",
-      "isConsent": false,
-      "actionName": null,
-      "passedFlagName": null,
-      "matterFile": null,
-      "matterId": null,
-      "matterType": null
-    },
-    {
-      "id": "legistar-stpaul-eventitem-216486",
-      "meeting_id": "legistar-stpaul-meeting-7744",
-      "sequence": 4,
-      "agendaNumber": null,
-      "title": "11:00 a.m. Hearings",
-      "isConsent": false,
-      "actionName": null,
-      "passedFlagName": null,
-      "matterFile": null,
-      "matterId": null,
-      "matterType": null
-    },
-    {
-      "id": "legistar-stpaul-eventitem-216487",
-      "meeting_id": "legistar-stpaul-meeting-7744",
-      "sequence": 7,
-      "agendaNumber": null,
-      "title": "Summary & Vehicle Abatement Orders",
-      "isConsent": false,
-      "actionName": null,
-      "passedFlagName": null,
-      "matterFile": null,
-      "matterId": null,
-      "matterType": null
-    },
-    {
-      "id": "legistar-stpaul-eventitem-216488",
-      "meeting_id": "legistar-stpaul-meeting-7744",
-      "sequence": 10,
-      "agendaNumber": "5",
-      "title": "Appeal of Mary Roach to a Summary Abatement Order at 1045 CHARLES AVENUE.",
-      "isConsent": false,
-      "actionName": "Referred",
-      "passedFlagName": null,
-      "matterFile": "RLH SAO 26-78",
-      "matterId": 52672,
-      "matterType": "Resolution LH Summary Abatement Order"
-    },
-    {
-      "id": "legistar-stpaul-eventitem-216490",
-      "meeting_id": "legistar-stpaul-meeting-7744",
-      "sequence": 9,
-      "agendaNumber": "4",
-      "title": "Appeal of Rich C. Nelson to a Summary Abatement Order at 2348 BUFORD AVENUE.",
-      "isConsent": false,
-      "actionName": "Referred",
-      "passedFlagName": "Pass",
-      "matterFile": "RLH SAO 26-84",
-      "matterId": 52727,
-      "matterType": "Resolution LH Summary Abatement Order"
-    },
-    {
-      "id": "legistar-stpaul-eventitem-216493",
-      "meeting_id": "legistar-stpaul-meeting-7744",
-      "sequence": 11,
-      "agendaNumber": null,
-      "title": "1:00 p.m. Hearings",
-      "isConsent": false,
-      "actionName": null,
-      "passedFlagName": null,
-      "matterFile": null,
-      "matterId": null,
-      "matterType": null
-    },
-    {
-      "id": "legistar-stpaul-eventitem-216494",
-      "meeting_id": "legistar-stpaul-meeting-7744",
-      "sequence": 12,
-      "agendaNumber": null,
-      "title": "Vacant Building Registrations",
-      "isConsent": false,
-      "actionName": null,
-      "passedFlagName": null,
-      "matterFile": null,
-      "matterId": null,
-      "matterType": null
-    },
-    {
-      "id": "legistar-stpaul-eventitem-216495",
-      "meeting_id": "legistar-stpaul-meeting-7744",
-      "sequence": 13,
-      "agendaNumber": "6",
-      "title": "Appeal of John Ludwig, Superior Financing Inc, to a Vacant Building Registration Requirement at 12 OAKLEY AVENUE.",
-      "isConsent": false,
-      "actionName": "Referred",
-      "passedFlagName": null,
-      "matterFile": "RLH VBR 26-17",
-      "matterId": 52690,
-      "matterType": "Resolution LH Vacant Building Registration"
-    },
-    {
-      "id": "legistar-stpaul-eventitem-216496",
-      "meeting_id": "legistar-stpaul-meeting-7744",
-      "sequence": 14,
-      "agendaNumber": "7",
-      "title": "Appeal of Gomaa Elzamel to a Vacant Building Registration Requirement at 713 PREBLE STREET.",
-      "isConsent": false,
-      "actionName": "Laid Over",
-      "passedFlagName": null,
-      "matterFile": "RLH VBR 26-18",
-      "matterId": 52717,
-      "matterType": "Resolution LH Vacant Building Registration"
-    },
-    {
-      "id": "legistar-stpaul-eventitem-216504",
-      "meeting_id": "legistar-stpaul-meeting-7744",
-      "sequence": 6,
-      "agendaNumber": "2",
-      "title": "Making finding on the appeal of Delmy Muniz to a nuisance abatement ordered for 1689 STILLWATER AVENUE in Council File RLH SAO 26-70.",
-      "isConsent": false,
-      "actionName": "Referred",
-      "passedFlagName": null,
-      "matterFile": "RLH SAO 26-83",
-      "matterId": 52721,
-      "matterType": "Resolution LH Summary Abatement Order"
-    },
-    {
-      "id": "legistar-stpaul-eventitem-216505",
-      "meeting_id": "legistar-stpaul-meeting-7744",
-      "sequence": 5,
-      "agendaNumber": null,
-      "title": "Making Finding on Nuisance Abatements",
       "isConsent": false,
       "actionName": null,
       "passedFlagName": null,
@@ -2911,19 +2732,6 @@
       "matterFile": "RLH VBR 26-17",
       "matterId": 52690,
       "matterType": "Resolution LH Vacant Building Registration"
-    },
-    {
-      "id": "legistar-stpaul-eventitem-216751",
-      "meeting_id": "legistar-stpaul-meeting-7751",
-      "sequence": 56,
-      "agendaNumber": "47",
-      "title": "Appeal of Erin Metz Verdeja to a Summary Abatement Order at 1518 SELBY AVENUE.",
-      "isConsent": true,
-      "actionName": "Continue Public Hearing",
-      "passedFlagName": "Pass",
-      "matterFile": "RLH SAO 26-60",
-      "matterId": 52441,
-      "matterType": "Resolution LH Summary Abatement Order"
     },
     {
       "id": "legistar-stpaul-eventitem-216752",
@@ -4031,19 +3839,6 @@
       "matterType": null
     },
     {
-      "id": "legistar-stpaul-eventitem-216930",
-      "meeting_id": "legistar-stpaul-meeting-7755",
-      "sequence": 57,
-      "agendaNumber": "49",
-      "title": "Appeal of Erin Metz Verdeja to a Summary Abatement Order at 1518 SELBY AVENUE.",
-      "isConsent": false,
-      "actionName": null,
-      "passedFlagName": null,
-      "matterFile": "RLH SAO 26-60",
-      "matterId": 52441,
-      "matterType": "Resolution LH Summary Abatement Order"
-    },
-    {
       "id": "legistar-stpaul-eventitem-216931",
       "meeting_id": "legistar-stpaul-meeting-7755",
       "sequence": 54,
@@ -4413,8 +4208,8 @@
       "sequence": 3,
       "agendaNumber": "1",
       "title": "Approving the minutes of the August 11, 2026 meeting.",
-      "isConsent": false,
-      "actionName": null,
+      "isConsent": true,
+      "actionName": "Adopted",
       "passedFlagName": null,
       "matterFile": "Min 26-28",
       "matterId": 52820,
@@ -4426,9 +4221,9 @@
       "sequence": 5,
       "agendaNumber": "3",
       "title": "Pertaining to Amendment No. 1 to the Private Water Main Agreement with WestSP Development Partners, LLC (“Developer”) to supply water to the Thompson Oaks Development at 160 Thompson Avenue East in the city of West Saint Paul.",
-      "isConsent": false,
-      "actionName": null,
-      "passedFlagName": null,
+      "isConsent": true,
+      "actionName": "Adopted",
+      "passedFlagName": "Pass",
       "matterFile": "RES 26-1510",
       "matterId": 52822,
       "matterType": "Resolution"
@@ -4439,9 +4234,9 @@
       "sequence": 6,
       "agendaNumber": "4",
       "title": "Pertaining to an encroachment agreement with 1215 Hawthorne Avenue East to allow the continuation of private use on Board of Water Commissioners land between Hawthorne Avenue East and Orange Avenue East.",
-      "isConsent": false,
-      "actionName": null,
-      "passedFlagName": null,
+      "isConsent": true,
+      "actionName": "Adopted",
+      "passedFlagName": "Pass",
       "matterFile": "RES 26-1511",
       "matterId": 52823,
       "matterType": "Resolution"
@@ -4452,9 +4247,9 @@
       "sequence": 7,
       "agendaNumber": "5",
       "title": "Pertaining to Board approval to use Master Contract No. 4747 with Jacobs to provide engineering services to conduct a feasibility study for removing the Low Service Reservoir from service for future structural condition assessments and maintenance.",
-      "isConsent": false,
-      "actionName": null,
-      "passedFlagName": null,
+      "isConsent": true,
+      "actionName": "Adopted",
+      "passedFlagName": "Pass",
       "matterFile": "RES 26-1512",
       "matterId": 52824,
       "matterType": "Resolution"
@@ -4465,9 +4260,9 @@
       "sequence": 8,
       "agendaNumber": "6",
       "title": "Pertaining to the Scope of Work for the Hazel Park pump replacement project with Black & Veatch.",
-      "isConsent": false,
-      "actionName": null,
-      "passedFlagName": null,
+      "isConsent": true,
+      "actionName": "Adopted",
+      "passedFlagName": "Pass",
       "matterFile": "RES 26-1513",
       "matterId": 52825,
       "matterType": "Resolution"
@@ -4478,9 +4273,9 @@
       "sequence": 9,
       "agendaNumber": "7",
       "title": "Pertaining to a grant funding agreement with the Metropolitan Council to continue a water demand reduction program.",
-      "isConsent": false,
-      "actionName": null,
-      "passedFlagName": null,
+      "isConsent": true,
+      "actionName": "Adopted",
+      "passedFlagName": "Pass",
       "matterFile": "RES 26-1514",
       "matterId": 52826,
       "matterType": "Resolution"
@@ -4491,9 +4286,9 @@
       "sequence": 10,
       "agendaNumber": "8",
       "title": "Pertaining to accepting a Met Council grant, amending the 2026 adopted budget to include the grant amount.",
-      "isConsent": false,
-      "actionName": null,
-      "passedFlagName": null,
+      "isConsent": true,
+      "actionName": "Adopted",
+      "passedFlagName": "Pass",
       "matterFile": "RES 26-1515",
       "matterId": 52827,
       "matterType": "Resolution"
@@ -4570,7 +4365,7 @@
       "agendaNumber": "16",
       "title": "Pipeline Express",
       "isConsent": false,
-      "actionName": null,
+      "actionName": "Received and Filed",
       "passedFlagName": null,
       "matterFile": "CO 26-40",
       "matterId": 52838,
@@ -4660,21 +4455,36 @@
       "sequence": 4,
       "agendaNumber": "2",
       "title": "Approving the Financial Statements for the month of July 2026.",
-      "isConsent": false,
-      "actionName": null,
-      "passedFlagName": null,
+      "isConsent": true,
+      "actionName": "Adopted",
+      "passedFlagName": "Pass",
       "matterFile": "RES 26-1509",
       "matterId": 52821,
       "matterType": "Resolution"
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217053",
+      "meeting_id": "legistar-stpaul-meeting-7760",
+      "sequence": null,
+      "agendaNumber": null,
+      "title": "Approval of the Consent Agenda",
+      "isConsent": true,
+      "actionName": "Adopted Consent Agenda",
+      "passedFlagName": "Pass",
+      "matterFile": null,
+      "matterId": null,
+      "matterType": null
     }
   ],
   "diff": {
     "addedIds": [],
-    "removedIds": [],
+    "removedIds": [
+      "legistar-stpaul-meeting-7744"
+    ],
     "changed": []
   },
-  "previousGeneratedAt": "2026-09-07T17:35:11.459Z",
+  "previousGeneratedAt": "2026-09-08T16:20:15.618Z",
   "knownGaps": [
-    "Consent-agenda flagging uses Legistar's own EventItemConsent field only (96 of 297 agenda item(s) in this window flagged). \"No discussion\" / \"no public comment\" are NOT flagged — this API exposes no comparably reliable field for either, and AGENTS.md §3.3 rules out inferring one from absence."
+    "Consent-agenda flagging uses Legistar's own EventItemConsent field only (103 of 283 agenda item(s) in this window flagged). \"No discussion\" / \"no public comment\" are NOT flagged — this API exposes no comparably reliable field for either, and AGENTS.md §3.3 rules out inferring one from absence."
   ]
 }
