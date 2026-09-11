@@ -2,38 +2,31 @@
   "schemaVersion": 1,
   "client": "hennepinmn",
   "jurisdiction": "Hennepin County Board",
-  "generatedAt": "2026-09-10T16:06:55.938Z",
+  "generatedAt": "2026-09-11T16:10:50.054Z",
   "status": "ingested",
-  "note": "0 meeting(s) (0/0 event(s) in window) and 0 agenda item(s) ingested for 2026-08-27–2026-12-09.",
+  "note": "0 meeting(s) (0/0 event(s) in window) and 0 agenda item(s) ingested for 2026-08-28–2026-12-10.",
   "provenance": {
     "primarySourceUrl": "https://webapi.legistar.com/v1/hennepinmn/events",
     "sourceAgency": "Hennepin County Board",
     "documentType": "Legistar Web API — Events/EventItems",
     "documentId": null,
     "issuedDate": null,
-    "fetchedAt": "2026-09-10T16:06:55.938Z",
+    "fetchedAt": "2026-09-11T16:10:50.054Z",
     "licence": "Public records served via Legistar InSite; no separate machine-reuse licence published by the host jurisdiction as of this writing.",
-    "contentHash": "a1e2e2fe7735571bf2a885e90533884a43bd04de5e657c687977af5f98752abc"
+    "contentHash": "31694d8e7258dbf30cf1a4438364bb4248249d25c4411e4a65a6fc2640cd7e63"
   },
   "window": {
-    "startIso": "2026-08-27",
-    "endIso": "2026-12-09"
+    "startIso": "2026-08-28",
+    "endIso": "2026-12-10"
   },
   "meetings": [],
   "agendaItems": [],
   "diff": {
     "addedIds": [],
-    "removedIds": [
-      "legistar-hennepinmn-meeting-1458",
-      "legistar-hennepinmn-meeting-1459",
-      "legistar-hennepinmn-meeting-1460",
-      "legistar-hennepinmn-meeting-1461",
-      "legistar-hennepinmn-meeting-1462",
-      "legistar-hennepinmn-meeting-1463"
-    ],
+    "removedIds": [],
     "changed": []
   },
-  "previousGeneratedAt": "2026-09-08T16:21:12.657Z",
+  "previousGeneratedAt": "2026-09-10T16:06:55.938Z",
   "knownGaps": [
     "Consent-agenda flagging uses Legistar's own EventItemConsent field only (0 of 0 agenda item(s) in this window flagged). \"No discussion\" / \"no public comment\" are NOT flagged — this API exposes no comparably reliable field for either, and AGENTS.md §3.3 rules out inferring one from absence."
   ]
