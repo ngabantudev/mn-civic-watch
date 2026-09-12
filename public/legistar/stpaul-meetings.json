@@ -2,22 +2,22 @@
   "schemaVersion": 1,
   "client": "stpaul",
   "jurisdiction": "St. Paul City Council",
-  "generatedAt": "2026-09-11T16:10:03.699Z",
+  "generatedAt": "2026-09-12T15:17:37.369Z",
   "status": "ingested",
-  "note": "17 meeting(s) (17/17 event(s) in window) and 301 agenda item(s) ingested for 2026-08-28–2026-12-10.",
+  "note": "18 meeting(s) (18/18 event(s) in window) and 332 agenda item(s) ingested for 2026-08-29–2026-12-11.",
   "provenance": {
     "primarySourceUrl": "https://webapi.legistar.com/v1/stpaul/events",
     "sourceAgency": "St. Paul City Council",
     "documentType": "Legistar Web API — Events/EventItems",
     "documentId": null,
     "issuedDate": null,
-    "fetchedAt": "2026-09-11T16:10:03.699Z",
+    "fetchedAt": "2026-09-12T15:17:37.369Z",
     "licence": "Public records served via Legistar InSite; no separate machine-reuse licence published by the host jurisdiction as of this writing.",
-    "contentHash": "dd458b5a3119868c5fb3f9b215f4d02cde68d8c5c01723225d36d54f00c01d97"
+    "contentHash": "2316c411c28b733f7db9648326c756f7154d0690ffa52846a8b20744dcda5fad"
   },
   "window": {
-    "startIso": "2026-08-28",
-    "endIso": "2026-12-10"
+    "startIso": "2026-08-29",
+    "endIso": "2026-12-11"
   },
   "meetings": [
     {
@@ -712,6 +712,21 @@
           "type": "Commissioner"
         }
       ]
+    },
+    {
+      "id": "legistar-stpaul-meeting-7766",
+      "body_id": "legistar-stpaul-body-195",
+      "bodyName": "Legislative Hearings",
+      "date": "2026-09-15",
+      "time": "09:00",
+      "location": "Room 330 City Hall & Court House/Remote",
+      "agendaStatus": "Final",
+      "agendaUrl": "https://legistar1.granicus.com/StPaul/meetings/2026/9/7766_A_Legislative_Hearings_26-09-15_ADA_Meeting_Agenda.pdf",
+      "minutesUrl": null,
+      "videoStatus": "Public",
+      "sourceUrl": "https://stpaul.legistar.com/MeetingDetail.aspx?LEGID=7766&GID=125&G=EDAB5C5F-1041-4DF4-A894-59E957785E36",
+      "lastModifiedUtc": "2026-09-11T17:12:24.977",
+      "members": []
     },
     {
       "id": "legistar-stpaul-meeting-7768",
@@ -4591,6 +4606,409 @@
       "matterType": null
     },
     {
+      "id": "legistar-stpaul-eventitem-217244",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 1,
+      "agendaNumber": null,
+      "title": "9:00 a.m. Hearings",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": null,
+      "matterId": null,
+      "matterType": null
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217246",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 2,
+      "agendaNumber": null,
+      "title": "Remove/Repair Orders",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": null,
+      "matterId": null,
+      "matterType": null
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217247",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 4,
+      "agendaNumber": "2",
+      "title": "Ordering the rehabilitation or razing and removal of the structures at 799 UNIVERSITY AVENUE WEST within fifteen (15) days after the February 18, 2026 City Council Public Hearing. (Refer back to September 15, 2026 Legislative Hearing)",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": "RLH RR 26-2",
+      "matterId": 51062,
+      "matterType": "Resolution LH Substantial Abatement Order"
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217248",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 3,
+      "agendaNumber": "1",
+      "title": "Ordering the rehabilitation or razing and removal of the structures at 914 CENTRAL AVENUE WEST within fifteen (15) days after the August 19, 2026, City Council Public Hearing.  (Refer to September 15, 2026 on condition)",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": "RLH RR 26-14",
+      "matterId": 52238,
+      "matterType": "Resolution LH Substantial Abatement Order"
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217249",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 8,
+      "agendaNumber": null,
+      "title": "Special Tax Assessments",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": null,
+      "matterId": null,
+      "matterType": null
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217250",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 11,
+      "agendaNumber": "5",
+      "title": "Ratifying the assessment for Securing and/or Emergency Boarding fees billed during June 2026 on Private Property. (File No. J2614B, Assessment No. 268120)",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": "RLH AR 26-66",
+      "matterId": 52646,
+      "matterType": "Resolution LH Assessment Roll"
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217251",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 9,
+      "agendaNumber": "4",
+      "title": "Ratifying the Appealed Special Tax Assessment for property at 752 PAYNE AVENUE (760 PAYNE AVENUE). (File No. J2614B, Assessment No. 268120)",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": "RLH TA 26-212",
+      "matterId": 52885,
+      "matterType": "Resolution LH Tax Assessment Appeal"
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217252",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 7,
+      "agendaNumber": null,
+      "title": "10:00 a.m. Hearings",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": null,
+      "matterId": null,
+      "matterType": null
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217253",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 18,
+      "agendaNumber": null,
+      "title": "Making Finding on Nuisance Abatements",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": null,
+      "matterId": null,
+      "matterType": null
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217254",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 10,
+      "agendaNumber": null,
+      "title": "Special Tax Assessments-Roll(s)",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": null,
+      "matterId": null,
+      "matterType": null
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217255",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 12,
+      "agendaNumber": null,
+      "title": "11:00 a.m. Hearings",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": null,
+      "matterId": null,
+      "matterType": null
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217256",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 13,
+      "agendaNumber": null,
+      "title": "Summary & Vehicle Abatement Orders",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": null,
+      "matterId": null,
+      "matterType": null
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217257",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 21,
+      "agendaNumber": "11",
+      "title": "Making finding on the appeal of Jane Myers nuisance abatement ordered for 1521 HAGUE AVENUE in Council File RLH SAO 26-58.",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": "RLH SAO 26-63",
+      "matterId": 52455,
+      "matterType": "Resolution LH Summary Abatement Order"
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217258",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 23,
+      "agendaNumber": "13",
+      "title": "Making finding on the appealed of Thomas Turbes to a nuisance abatement ordered for 2203 SELBY AVENUE in Council File RLH SAO 26-56.",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": "RLH SAO 26-66",
+      "matterId": 52495,
+      "matterType": "Resolution LH Summary Abatement Order"
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217259",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 22,
+      "agendaNumber": "12",
+      "title": "Making finding on the Appeal of Kinnell Tacket to a nuisance abatement ordered for 444 JOHNSON PARKWAY in Council File RLH CO 26-4.",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": "RLH SAO 26-80",
+      "matterId": 52676,
+      "matterType": "Resolution LH Summary Abatement Order"
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217260",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 14,
+      "agendaNumber": "6",
+      "title": "Appeal of Thomas Meier to a Summary Abatement Order at 4 EDGCUMBE PLACE.",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": "RLH SAO 26-87",
+      "matterId": 52746,
+      "matterType": "Resolution LH Summary Abatement Order"
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217261",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 19,
+      "agendaNumber": "9",
+      "title": "Making finding on the appeal of Rich C. Nelson to a nuisance abatement ordered for 2348 BUFORD AVENUE in Council File RLH SAO 26-84.",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": "RLH SAO 26-90",
+      "matterId": 52908,
+      "matterType": "Resolution LH Summary Abatement Order"
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217262",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 20,
+      "agendaNumber": "10",
+      "title": "Making finding on the appeal of Mary Roach to a nuisance abatement ordered for 1045 CHARLES AVENUE in Council File RLH SAO 26-78.",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": "RLH SAO 26-92",
+      "matterId": 52911,
+      "matterType": "Resolution LH Summary Abatement Order"
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217263",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 15,
+      "agendaNumber": null,
+      "title": "Correction Orders",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": null,
+      "matterId": null,
+      "matterType": null
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217264",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 17,
+      "agendaNumber": "8",
+      "title": "Appeal of Kristin Becker to a Correction Order at 775 EDMUND AVENUE.",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": "RLH CO 26-9",
+      "matterId": 52872,
+      "matterType": "Resolution LH Correction Order (Code Enforcement Only)"
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217265",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 16,
+      "agendaNumber": "7",
+      "title": "Appeal of Brian Poppoff to a Correction Notice at 1013 CENTRAL AVENUE WEST.",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": "RLH CO 26-10",
+      "matterId": 52891,
+      "matterType": "Resolution LH Correction Order (Code Enforcement Only)"
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217267",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 25,
+      "agendaNumber": null,
+      "title": "1:00 p.m. Hearings",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": null,
+      "matterId": null,
+      "matterType": null
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217268",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 26,
+      "agendaNumber": null,
+      "title": "Vacant Building Registrations",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": null,
+      "matterId": null,
+      "matterType": null
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217269",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 27,
+      "agendaNumber": "15",
+      "title": "Appeal of Gomaa Elzamel to a Vacant Building Registration Requirement at 713 PREBLE STREET.",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": "RLH VBR 26-18",
+      "matterId": 52717,
+      "matterType": "Resolution LH Vacant Building Registration"
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217270",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 28,
+      "agendaNumber": "16",
+      "title": "Appeal of Shai Leibovich (ShaSha Holdings) and Carolyn Brown (Community Stabilization Project) to a Vacant Building Registration Renewal Notice at 421 THOMAS AVENUE.",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": "RLH VBR 26-19",
+      "matterId": 52875,
+      "matterType": "Resolution LH Vacant Building Registration"
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217275",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 29,
+      "agendaNumber": null,
+      "title": "3:00 p.m. Hearings",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": null,
+      "matterId": null,
+      "matterType": null
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217276",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 30,
+      "agendaNumber": null,
+      "title": "Other",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": null,
+      "matterId": null,
+      "matterType": null
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217277",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 31,
+      "agendaNumber": "17",
+      "title": "Appeal of Anne Thomas to a Denial of a Fence Variance at 737 WATSON AVENUE.",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": "RLH OA 26-3",
+      "matterId": 52873,
+      "matterType": "Resolution LH Other Appeal Type"
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217278",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 5,
+      "agendaNumber": null,
+      "title": "Staff Reports",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": null,
+      "matterId": null,
+      "matterType": null
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217279",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 6,
+      "agendaNumber": "3",
+      "title": "Review of Appeal for ordering the rehabilitation or razing and removal of the structures at 118 MANITOBA AVENUE within fifteen (15) days after the March 18, 2026, City Council Public Hearing.",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": "SR 26-189",
+      "matterId": 52814,
+      "matterType": "Staff Report"
+    },
+    {
+      "id": "legistar-stpaul-eventitem-217280",
+      "meeting_id": "legistar-stpaul-meeting-7766",
+      "sequence": 24,
+      "agendaNumber": "14",
+      "title": "Making finding on the appeal of Barry Campbell to a nuisance abatement ordered for 449 VAN DYKE STREET in Council File RLH SAO 26-71.",
+      "isConsent": false,
+      "actionName": null,
+      "passedFlagName": null,
+      "matterFile": "RLH SAO 26-93",
+      "matterId": 52915,
+      "matterType": "Resolution LH Summary Abatement Order"
+    },
+    {
       "id": "legistar-stpaul-eventitem-217292",
       "meeting_id": "legistar-stpaul-meeting-7768",
       "sequence": 1,
@@ -4697,33 +5115,13 @@
   ],
   "diff": {
     "addedIds": [
-      "legistar-stpaul-meeting-7762",
-      "legistar-stpaul-meeting-7764",
-      "legistar-stpaul-meeting-7765",
-      "legistar-stpaul-meeting-7768",
-      "legistar-stpaul-meeting-7769"
+      "legistar-stpaul-meeting-7766"
     ],
-    "removedIds": [
-      "legistar-stpaul-meeting-7746",
-      "legistar-stpaul-meeting-7747"
-    ],
-    "changed": [
-      {
-        "id": "legistar-stpaul-meeting-7753",
-        "field": "minutesUrl",
-        "from": null,
-        "to": "https://legistar1.granicus.com/StPaul/meetings/2026/9/7753_M_Legislative_Hearings_26-09-01_Minutes_-_Final.pdf"
-      },
-      {
-        "id": "legistar-stpaul-meeting-7754",
-        "field": "minutesUrl",
-        "from": null,
-        "to": "https://legistar1.granicus.com/StPaul/meetings/2026/9/7754_M_Legislative_Hearings_26-09-03_Minutes_-_Final.pdf"
-      }
-    ]
+    "removedIds": [],
+    "changed": []
   },
-  "previousGeneratedAt": "2026-09-10T16:06:13.876Z",
+  "previousGeneratedAt": "2026-09-11T16:10:03.699Z",
   "knownGaps": [
-    "Consent-agenda flagging uses Legistar's own EventItemConsent field only (84 of 301 agenda item(s) in this window flagged). \"No discussion\" / \"no public comment\" are NOT flagged — this API exposes no comparably reliable field for either, and AGENTS.md §3.3 rules out inferring one from absence."
+    "Consent-agenda flagging uses Legistar's own EventItemConsent field only (84 of 332 agenda item(s) in this window flagged). \"No discussion\" / \"no public comment\" are NOT flagged — this API exposes no comparably reliable field for either, and AGENTS.md §3.3 rules out inferring one from absence."
   ]
 }

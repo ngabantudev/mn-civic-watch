@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T16:10:55.200Z",
+  "generatedAt": "2026-09-12T15:18:31.807Z",
   "meetingsThisWeek": [
     {
       "client": "minneapolis",
@@ -408,7 +408,7 @@
       "location": null,
       "sourceUrl": "https://lims.minneapolismn.gov/Agenda/BAC/",
       "agendaUrl": "https://lims.minneapolismn.gov/Agenda/BAC/",
-      "isCancelled": false,
+      "isCancelled": true,
       "members": [
         {
           "id": 6824,
@@ -565,8 +565,8 @@
       "date": "2026-09-16",
       "time": "17:30",
       "location": null,
-      "sourceUrl": "https://lims.minneapolismn.gov/Agenda/ARTS/",
-      "agendaUrl": "https://lims.minneapolismn.gov/Agenda/ARTS/",
+      "sourceUrl": "https://lims.minneapolismn.gov/Agenda/ARTS/6221",
+      "agendaUrl": "https://lims.minneapolismn.gov/Agenda/ARTS/6221",
       "isCancelled": false,
       "members": [
         {
@@ -603,8 +603,8 @@
       "date": "2026-09-17",
       "time": "09:30",
       "location": null,
-      "sourceUrl": "https://lims.minneapolismn.gov/Agenda/Council/",
-      "agendaUrl": "https://lims.minneapolismn.gov/Agenda/Council/",
+      "sourceUrl": "https://lims.minneapolismn.gov/Agenda/Council/6219",
+      "agendaUrl": "https://lims.minneapolismn.gov/Agenda/Council/6219",
       "isCancelled": false,
       "members": [
         {

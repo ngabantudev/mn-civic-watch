@@ -2,22 +2,22 @@
   "schemaVersion": 1,
   "client": "minneapolis",
   "jurisdiction": "Minneapolis City Council",
-  "generatedAt": "2026-09-11T16:10:55.197Z",
+  "generatedAt": "2026-09-12T15:18:31.804Z",
   "status": "ingested",
-  "note": "138 meeting(s) and 90 agenda item(s) ingested for 2026-08-28–2026-12-10.",
+  "note": "138 meeting(s) and 93 agenda item(s) ingested for 2026-08-29–2026-12-11.",
   "provenance": {
     "primarySourceUrl": "https://lims.minneapolismn.gov/",
     "sourceAgency": "City of Minneapolis, Office of the City Clerk",
     "documentType": "LIMS API v1 — meetingCalendar/FileItemSearch",
     "documentId": null,
     "issuedDate": null,
-    "fetchedAt": "2026-09-11T16:10:55.197Z",
+    "fetchedAt": "2026-09-12T15:18:31.804Z",
     "licence": "Public records served via the City of Minneapolis LIMS API; no separate machine-reuse licence published as of this writing.",
     "contentHash": null
   },
   "window": {
-    "startIso": "2026-08-28",
-    "endIso": "2026-12-10"
+    "startIso": "2026-08-29",
+    "endIso": "2026-12-11"
   },
   "meetings": [
     {
@@ -545,7 +545,7 @@
       "location": null,
       "agendaStatus": null,
       "agendaUrl": "https://lims.minneapolismn.gov/Agenda/CI/6180",
-      "minutesUrl": null,
+      "minutesUrl": "https://lims.minneapolismn.gov/api/v1/downloads/CommitteeReport/4966/CI_09102026_Committee_Report.pdf",
       "videoStatus": null,
       "sourceUrl": "https://lims.minneapolismn.gov/Agenda/CI/6180",
       "lastModifiedUtc": null,
@@ -1117,7 +1117,7 @@
       "date": "2026-09-15",
       "time": "16:00",
       "location": null,
-      "agendaStatus": null,
+      "agendaStatus": "Cancelled",
       "agendaUrl": "https://lims.minneapolismn.gov/Agenda/BAC/",
       "minutesUrl": null,
       "videoStatus": null,
@@ -1286,10 +1286,10 @@
       "time": "17:30",
       "location": null,
       "agendaStatus": null,
-      "agendaUrl": "https://lims.minneapolismn.gov/Agenda/ARTS/",
+      "agendaUrl": "https://lims.minneapolismn.gov/Agenda/ARTS/6221",
       "minutesUrl": null,
       "videoStatus": null,
-      "sourceUrl": "https://lims.minneapolismn.gov/Agenda/ARTS/",
+      "sourceUrl": "https://lims.minneapolismn.gov/Agenda/ARTS/6221",
       "lastModifiedUtc": null,
       "members": [
         {
@@ -1327,10 +1327,10 @@
       "time": "09:30",
       "location": null,
       "agendaStatus": null,
-      "agendaUrl": "https://lims.minneapolismn.gov/Agenda/Council/",
+      "agendaUrl": "https://lims.minneapolismn.gov/Agenda/Council/6219",
       "minutesUrl": null,
       "videoStatus": null,
-      "sourceUrl": "https://lims.minneapolismn.gov/Agenda/Council/",
+      "sourceUrl": "https://lims.minneapolismn.gov/Agenda/Council/6219",
       "lastModifiedUtc": null,
       "members": [
         {
@@ -7404,6 +7404,21 @@
       "votes": []
     },
     {
+      "id": "lims-minneapolis-fileitem-1404-3",
+      "meeting_id": "lims-minneapolis-meeting-committee-of-the-whole-2026-09-15T13:30:00",
+      "sequence": null,
+      "agendaNumber": null,
+      "title": "Receiving and filing a response to a legislative directive requesting information on the Minneapolis Police Department (MPD)'s 2025 spending.",
+      "isConsent": false,
+      "actionName": "Scheduled",
+      "passedFlagName": "Failed",
+      "matterFile": "2026-00495",
+      "matterId": null,
+      "matterType": "Receive & File",
+      "fileUrl": "https://lims.minneapolismn.gov/File/2026-00495",
+      "votes": []
+    },
+    {
       "id": "lims-minneapolis-fileitem-1409-0",
       "meeting_id": "lims-minneapolis-meeting-budget-committee-2026-09-14T10:00:00",
       "sequence": null,
@@ -7455,8 +7470,8 @@
       "agendaNumber": null,
       "title": "Passage of Resolution approving the 2027operating plan, special services, cost estimates, service charges, and the list of 2027service charges for the Downtown Business Improvement Special Service District (428A District).",
       "isConsent": false,
-      "actionName": "Scheduled",
-      "passedFlagName": "Failed",
+      "actionName": "Public hearing continued to 9/24/2026",
+      "passedFlagName": "Passed",
       "matterFile": "2026-00855",
       "matterId": null,
       "matterType": "Resolution",
@@ -7470,8 +7485,8 @@
       "agendaNumber": null,
       "title": "Passage of Resolution approving the 2027operating plans, special services, cost estimates, service charges, and the lists of 2027service charges for the 50th & France, 54th & Lyndale, Bloomington-Lake, Chicago-Lake, East Lake Street, Lyndale-Lake, and West Broadway Improvement Special Service Districts (428A Districts).",
       "isConsent": false,
-      "actionName": "Scheduled",
-      "passedFlagName": "Failed",
+      "actionName": "Approved",
+      "passedFlagName": "Passed",
       "matterFile": "2026-00857",
       "matterId": null,
       "matterType": "Resolution",
@@ -7574,12 +7589,27 @@
       "agendaNumber": null,
       "title": "Passage of Ordinanceamending Title 3, Chapter 47 of the Minneapolis Code of Ordinances relating to Air Pollution and Environmental Protection: Energy and Air Pollution, repealing Section 47.190 entitled “Commercial and multifamily residential building rating and disclosure.”",
       "isConsent": false,
-      "actionName": "Scheduled",
-      "passedFlagName": "Failed",
+      "actionName": "Public hearing set for   9/24/2026",
+      "passedFlagName": "Passed",
       "matterFile": "2026-00968",
       "matterId": null,
       "matterType": "Ordinance",
       "fileUrl": "https://lims.minneapolismn.gov/File/2026-00968",
+      "votes": []
+    },
+    {
+      "id": "lims-minneapolis-fileitem-2333-1",
+      "meeting_id": "lims-minneapolis-meeting-committee-of-the-whole-2026-09-15T13:30:00",
+      "sequence": null,
+      "agendaNumber": null,
+      "title": "Receiving and filing a presentation from the Office of Community Safety (OCS) and Office of Public Service (OPS) on the progress of MDHR Settlement Agreement implementation.",
+      "isConsent": false,
+      "actionName": "Scheduled",
+      "passedFlagName": "Failed",
+      "matterFile": "2026-00969",
+      "matterId": null,
+      "matterType": "Receive & File",
+      "fileUrl": "https://lims.minneapolismn.gov/File/2026-00969",
       "votes": []
     },
     {
@@ -7889,8 +7919,8 @@
       "agendaNumber": null,
       "title": "Authorizing an increase to contract COM0008654 with JLTheis, Inc. in the amount of $5,652.00 for a total amount not to exceed $1,639,713.46, and an extension through Dec 31, 2026, for construction on the 1st Ave S Reconstruction Green Stormwater Infrastructure project.",
       "isConsent": false,
-      "actionName": "Scheduled",
-      "passedFlagName": "Failed",
+      "actionName": "Approved",
+      "passedFlagName": "Passed",
       "matterFile": "2026-00986",
       "matterId": null,
       "matterType": "Action",
@@ -7904,8 +7934,8 @@
       "agendaNumber": null,
       "title": "Authorizing an increase to Contract COM0011315 with Thomas and Sons Construction, Inc. in the amount of $207,574for a total amount not to exceed $1,721,815.50, for additional work necessary to complete the 42nd St Intersection Safety Improvements, all in accordance with City specifications.",
       "isConsent": false,
-      "actionName": "Scheduled",
-      "passedFlagName": "Failed",
+      "actionName": "Approved",
+      "passedFlagName": "Passed",
       "matterFile": "2026-00987",
       "matterId": null,
       "matterType": "Action",
@@ -8053,8 +8083,8 @@
       "agendaNumber": null,
       "title": "Passage of Resolution accepting donation from Cities Today Institute for Kelsey Fogt, Interim Transportation Planning Manager, to attend the City Leadership Forum on Mobility in Peachtree Corners, GA, October 21-22, 2026.",
       "isConsent": false,
-      "actionName": "Scheduled",
-      "passedFlagName": "Failed",
+      "actionName": "Approved",
+      "passedFlagName": "Passed",
       "matterFile": "2026-00994",
       "matterId": null,
       "matterType": "Resolution",
@@ -8173,8 +8203,8 @@
       "agendaNumber": null,
       "title": "Accepting the low bid of Standard Sidewalk Inc. submitted on Event 4160, in the amount of $173,493, to provide all materials, labor, equipment and incidentals necessary for the ADA Pedestrian Ramp Installation citywide, and authorizing a contract for the project, all in accordance with City specifications.",
       "isConsent": false,
-      "actionName": "Scheduled",
-      "passedFlagName": "Failed",
+      "actionName": "Approved",
+      "passedFlagName": "Passed",
       "matterFile": "2026-01001",
       "matterId": null,
       "matterType": "Action",
@@ -8218,8 +8248,8 @@
       "agendaNumber": null,
       "title": "Accepting the second low bid of Automated Logic Contracting, submitted on Event 4129, in the amount of $391,996, to provide all materials, labor, equipment and incidentals necessary for the Hawthorne Ramp Building Automation System Upgrade, and authorizing a contract for the project, all in accordance with City specifications.",
       "isConsent": false,
-      "actionName": "Scheduled",
-      "passedFlagName": "Failed",
+      "actionName": "Approved",
+      "passedFlagName": "Passed",
       "matterFile": "2026-01004",
       "matterId": null,
       "matterType": "Action",
@@ -8233,8 +8263,8 @@
       "agendaNumber": null,
       "title": "Authorizing an increase to Contract COM0011310 with Thomas and Sons Construction, Inc. in the amount of $209,545.16 for a total amount not to exceed $8,869,994.16, for additional work necessary to complete the 1st Avenue South Reconstruction Project, all in accordance with City specifications.",
       "isConsent": false,
-      "actionName": "Scheduled",
-      "passedFlagName": "Failed",
+      "actionName": "Approved",
+      "passedFlagName": "Passed",
       "matterFile": "2026-01005",
       "matterId": null,
       "matterType": "Action",
@@ -8293,8 +8323,8 @@
       "agendaNumber": null,
       "title": "Approving a legislative directive related to Commercial and multifamily energy disclosure repeal ordinance.",
       "isConsent": false,
-      "actionName": "Scheduled",
-      "passedFlagName": "Failed",
+      "actionName": "Approved",
+      "passedFlagName": "Passed",
       "matterFile": "2026-01007",
       "matterId": null,
       "matterType": "Action",
@@ -8698,8 +8728,8 @@
       "agendaNumber": null,
       "title": "Receiving and filing a report by community leaders on the 25x25 campaign to reduce fossil gas use through neighborhood organizing.",
       "isConsent": false,
-      "actionName": "Scheduled",
-      "passedFlagName": "Failed",
+      "actionName": "Received and filed",
+      "passedFlagName": "Passed",
       "matterFile": "2026-01021",
       "matterId": null,
       "matterType": "Receive & File",
@@ -8737,7 +8767,22 @@
       "votes": []
     },
     {
-      "id": "lims-minneapolis-fileitem-2465-3",
+      "id": "lims-minneapolis-fileitem-2419-0",
+      "meeting_id": "lims-minneapolis-meeting-committee-of-the-whole-2026-09-15T13:30:00",
+      "sequence": null,
+      "agendaNumber": null,
+      "title": "Authorizing a contract withGrant Thornton Advisors,LLC, in the amount not to exceed$2,030,000,for a two(2) year term,October1, 2026, through September 30, 2028,with the option to extend the contract forone(1) additional year,to provideassistance in completing supervisory reviews and investigative support as needed for the Minneapolis Police Department Internal Affairs Division.",
+      "isConsent": false,
+      "actionName": "Scheduled",
+      "passedFlagName": "Failed",
+      "matterFile": "2026-01025",
+      "matterId": null,
+      "matterType": "Action",
+      "fileUrl": "https://lims.minneapolismn.gov/File/2026-01025",
+      "votes": []
+    },
+    {
+      "id": "lims-minneapolis-fileitem-2466-3",
       "meeting_id": "lims-minneapolis-meeting-charter-commission-2026-09-02T16:00:00",
       "sequence": null,
       "agendaNumber": null,
@@ -8752,7 +8797,7 @@
       "votes": []
     },
     {
-      "id": "lims-minneapolis-fileitem-2474-0",
+      "id": "lims-minneapolis-fileitem-2475-0",
       "meeting_id": "lims-minneapolis-meeting-charter-commission-2026-09-02T16:00:00",
       "sequence": null,
       "agendaNumber": null,
@@ -8768,79 +8813,36 @@
     }
   ],
   "diff": {
-    "addedIds": [
-      "lims-minneapolis-meeting-city-council-policy-roundtable-2026-09-30T13:30:00",
-      "lims-minneapolis-meeting-climate-infrastructure-committee-2026-12-10T13:30:00",
-      "lims-minneapolis-meeting-minneapolis-advisory-committee-on-housing-2026-12-10T15:00:00",
-      "lims-minneapolis-meeting-zoning-board-of-adjustment-2026-12-10T16:30:00"
-    ],
-    "removedIds": [
-      "lims-minneapolis-meeting-city-council-2026-08-27T09:30:00"
-    ],
+    "addedIds": [],
+    "removedIds": [],
     "changed": [
       {
-        "id": "lims-minneapolis-meeting-homegrown-minneapolis-food-council-2026-09-09T17:30:00",
-        "field": "agendaUrl",
-        "from": "https://lims.minneapolismn.gov/Agenda/HMFC/6200",
-        "to": "https://lims.minneapolismn.gov/Board/MarkedAgenda/HMFC/6200"
-      },
-      {
-        "id": "lims-minneapolis-meeting-homegrown-minneapolis-food-council-2026-09-09T17:30:00",
+        "id": "lims-minneapolis-meeting-climate-infrastructure-committee-2026-09-10T13:30:00",
         "field": "minutesUrl",
         "from": null,
-        "to": "https://lims.minneapolismn.gov/api/v1/downloads/CommitteeReport/4962/HMFC_20260909_minutes.pdf"
+        "to": "https://lims.minneapolismn.gov/api/v1/downloads/CommitteeReport/4966/CI_09102026_Committee_Report.pdf"
       },
       {
-        "id": "lims-minneapolis-meeting-budget-committee-2026-09-10T10:00:00",
-        "field": "minutesUrl",
+        "id": "lims-minneapolis-meeting-bicycle-advisory-committee-2026-09-15T16:00:00",
+        "field": "agendaStatus",
         "from": null,
-        "to": "https://lims.minneapolismn.gov/api/v1/downloads/CommitteeReport/4961/Budget_09102026_Committee_Report.pdf"
+        "to": "Cancelled"
       },
       {
-        "id": "lims-minneapolis-meeting-zoning-board-of-adjustment-2026-09-10T16:30:00",
+        "id": "lims-minneapolis-meeting-minneapolis-arts-commission-2026-09-16T17:30:00",
         "field": "agendaUrl",
-        "from": "https://lims.minneapolismn.gov/Agenda/ZBA/6201",
-        "to": "https://lims.minneapolismn.gov/Board/MarkedAgenda/ZBA/6201"
+        "from": "https://lims.minneapolismn.gov/Agenda/ARTS/",
+        "to": "https://lims.minneapolismn.gov/Agenda/ARTS/6221"
       },
       {
-        "id": "lims-minneapolis-meeting-zoning-board-of-adjustment-2026-09-10T16:30:00",
-        "field": "minutesUrl",
-        "from": null,
-        "to": "https://lims.minneapolismn.gov/api/v1/downloads/CommitteeReport/4963/ZBA-09.10.26-Minutes.pdf"
-      },
-      {
-        "id": "lims-minneapolis-meeting-minneapolis-workforce-development-board-2026-09-15T08:00:00",
+        "id": "lims-minneapolis-meeting-city-council-2026-09-17T09:30:00",
         "field": "agendaUrl",
-        "from": "https://lims.minneapolismn.gov/Agenda/MWDB/",
-        "to": "https://lims.minneapolismn.gov/Agenda/MWDB/6218"
-      },
-      {
-        "id": "lims-minneapolis-meeting-community-commission-on-police-oversight-2026-09-15T18:00:00",
-        "field": "agendaUrl",
-        "from": "https://lims.minneapolismn.gov/Agenda/CCPO/",
-        "to": "https://lims.minneapolismn.gov/Agenda/CCPO/6216"
-      },
-      {
-        "id": "lims-minneapolis-meeting-city-council-policy-roundtable-2026-09-16T13:30:00",
-        "field": "agendaUrl",
-        "from": "https://lims.minneapolismn.gov/Agenda/Roundtable/",
-        "to": "https://lims.minneapolismn.gov/Agenda/Roundtable/6215"
-      },
-      {
-        "id": "lims-minneapolis-meeting-business-housing-zoning-committee-2026-09-22T13:30:00",
-        "field": "agendaUrl",
-        "from": "https://lims.minneapolismn.gov/Agenda/BHZ/",
-        "to": "https://lims.minneapolismn.gov/Agenda/BHZ/6217"
-      },
-      {
-        "id": "lims-minneapolis-meeting-climate-infrastructure-committee-2026-09-24T13:30:00",
-        "field": "agendaUrl",
-        "from": "https://lims.minneapolismn.gov/Agenda/CI/",
-        "to": "https://lims.minneapolismn.gov/Agenda/CI/6214"
+        "from": "https://lims.minneapolismn.gov/Agenda/Council/",
+        "to": "https://lims.minneapolismn.gov/Agenda/Council/6219"
       }
     ]
   },
-  "previousGeneratedAt": "2026-09-10T16:07:02.887Z",
+  "previousGeneratedAt": "2026-09-11T16:10:55.197Z",
   "knownGaps": [
     "Consent-agenda flagging not implemented — LIMS has no field structurally equivalent to Legistar's EventItemConsent; every agenda item ships isConsent: false rather than a guess.",
     "3 same-day, same-body meeting collision(s) in this window — FileItemSearch's LegislativeHistory carries a date but no time, so a second same-day session for the same body can't be disambiguated; the earliest session for each colliding (body, date) pair was used."
