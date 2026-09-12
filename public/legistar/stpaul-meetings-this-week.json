@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T16:10:03.701Z",
+  "generatedAt": "2026-09-12T15:17:37.371Z",
   "meetingsThisWeek": [
     {
       "client": "stpaul",
@@ -10,6 +10,18 @@
       "location": "Legislative Hearing Room  330, City Hall",
       "sourceUrl": "https://stpaul.legistar.com/MeetingDetail.aspx?LEGID=7769&GID=125&G=EDAB5C5F-1041-4DF4-A894-59E957785E36",
       "agendaUrl": "https://legistar1.granicus.com/StPaul/meetings/2026/9/7769_A_Licensing_Hearing_26-09-14_ADA_Meeting_Agenda.pdf",
+      "isCancelled": false,
+      "members": []
+    },
+    {
+      "client": "stpaul",
+      "jurisdiction": "St. Paul City Council",
+      "bodyName": "Legislative Hearings",
+      "date": "2026-09-15",
+      "time": "09:00",
+      "location": "Room 330 City Hall & Court House/Remote",
+      "sourceUrl": "https://stpaul.legistar.com/MeetingDetail.aspx?LEGID=7766&GID=125&G=EDAB5C5F-1041-4DF4-A894-59E957785E36",
+      "agendaUrl": "https://legistar1.granicus.com/StPaul/meetings/2026/9/7766_A_Legislative_Hearings_26-09-15_ADA_Meeting_Agenda.pdf",
       "isCancelled": false,
       "members": []
     },
